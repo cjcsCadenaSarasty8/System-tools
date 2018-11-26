@@ -11,14 +11,14 @@ Option Strict On
 Option Explicit On
 
 
-Partial Public Class SiteMaster
+Partial Public Class CRUD
     
     '''<summary>
-    '''Control MainContent.
+    '''Control GrillaPrueba.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents MainContent As Global.System.Web.UI.WebControls.ContentPlaceHolder
+    Protected WithEvents GrillaPrueba As Global.System.Web.UI.WebControls.GridView
 End Class
